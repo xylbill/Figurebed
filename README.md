@@ -1,2 +1,2 @@
 # Figurebed
-xylbill的图床
+壹磊xylbill的图床
